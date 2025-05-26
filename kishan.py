@@ -290,12 +290,28 @@ MANDI_PRICES = {
     "wheat": "₹2200/qtl",
     "rice": "₹1800/qtl",
     "mustard": "₹5500/qtl"
+    "maize": "₹1700/qtl",
+    "barley": "₹1600/qtl",
+    "soybean": "₹4800/qtl",
+    "cotton": "₹6600/qtl",
+    "groundnut": "₹5500/qtl",
+    "sugarcane": "₹340/qtl",
+    "potato": "₹1200/qtl",
+    "onion": "₹900/qtl",
+    "tomato": "₹1100/qtl"
 }
 
 GOVT_SCHEMES = {
-    "PM-KISAN": "₹6000 per year to eligible farmers",
-    "PMFBY": "Crop insurance at nominal premium rates",
-    "Soil Health Card": "Free soil testing and nutrient advice"
+    "PM-KISAN": "₹6000 per year to eligible farmers in three installments.",
+    "PMFBY": "Pradhan Mantri Fasal Bima Yojana: Crop insurance at nominal premium rates.",
+    "Soil Health Card": "Provides soil nutrient status and recommendations for balanced use of fertilizers.",
+    "KCC": "Kisan Credit Card: Short-term credit to farmers for cultivation expenses at low interest.",
+    "eNAM": "National Agriculture Market: Unified national market for agricultural commodities.",
+    "RKVY": "Rashtriya Krishi Vikas Yojana: Funds to support agricultural infrastructure and innovation.",
+    "PUSA Krishi": "Access to agri-tech solutions from ICAR-PUSA for higher productivity.",
+    "Agri Infrastructure Fund": "₹1 Lakh Cr fund for building warehouses, cold storage and processing units.",
+    "Atma Nirbhar Krishi": "Promotes self-reliance in agriculture with reforms in APMC, contract farming.",
+    "PM Kusum": "Subsidy for installing solar pumps and grid-connected renewable power systems for irrigation."
 }
 
 # ------------------ UI ------------------
