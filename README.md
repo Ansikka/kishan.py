@@ -5,23 +5,7 @@ KrishiMitra is a smart, multilingual Streamlit web application designed to assis
 🌐 BhashaBuddy – Language Support
 Supports 9+ Indian languages with localized translations:
 
-English
-
-Hindi
-
-Bengali
-
-Punjabi
-
-Bhojpuri
-
-Tamil
-
-Telugu
-
-Odia
-
-Chhattisgarhi
+English, Hindi, Bengali, Punjabi, Bhojpuri, Tamil, Telugu, Odia, Chhattisgarhi
 
 More languages can be added with ease.
 
@@ -115,7 +99,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/krishimitra.git
+git clone https://github.com/yourusername/kishan.git
 cd krishimitra
 Install Requirements
 
