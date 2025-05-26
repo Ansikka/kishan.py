@@ -1,5 +1,7 @@
 **🌾 KrishiMitra – Empowering Indian Farmers with AI & Language Support
-KrishiMitra is a smart, multilingual Streamlit web application designed to assist farmers in India by providing crucial daily support—crop care tips, mandi prices, government schemes, disease detection, weather updates, and a friendly chatbot. With BhashaBuddy, farmers can use the app in their native languages, making the platform more inclusive and empowering.
+KrishiMitra is a smart,multilingual Streamlit web application designed to assist farmers in India!!
+By providing crucial daily support—crop care tips, mandi prices, government schemes, disease detection, weather updates, and a friendly chatbot.
+With BhashaBuddy farmers can use the app in their native languages, making the platform more inclusive and empowering!!
 **
 🚀 Features
 🌐 BhashaBuddy – Language Support
@@ -99,7 +101,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/
+git clone https://github.com/Ansikka/kishan.py
 cd krishimitra
 Install Requirements
 
@@ -125,13 +127,3 @@ krishimitra/
 🙌 Contributors
 Made with 💚 by Anshika Sharma and open for contributions!
 
-📃 License
-This project is licensed under the MIT License.
-
-Would you like me to also:
-
-Create a sample requirements.txt?
-
-Add badges (Streamlit, License, Language support)?
-
-Prepare a logo and deploy guide for Streamlit sharing?
