@@ -243,7 +243,8 @@ from datetime import datetime
 
 # ------------------ BhashaBuddy - Language Support ------------------
 LANGUAGE_DATA = {
-    "Hindi": {
+    Ask a question"
+  "Hindi": {
         "welcome": "\U0001F33E कृषि मित्र में आपका स्वागत है!",
         "today_task": "\U0001F4CB आज के लिए आपका कार्य:",
         "no_task": "\u26A0\ufe0f आज कोई विशेष कार्य नहीं है।",
@@ -275,6 +276,72 @@ LANGUAGE_DATA = {
         "weather": "\u2600\ufe0f আজকের আবহাওয়া:",
         "chat": "\U0001F916 চাষি সহায়তা চ্যাটবট",
         "ask_question": "একটি প্রশ্ন জিজ্ঞাসা করুন"
+    },
+    "Punjabi": {
+        "welcome": "\U0001F33E ਕ੍ਰਿਸ਼ੀ ਮਿਤਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ!",
+        "today_task": "\U0001F4CB ਅੱਜ ਲਈ ਤੁਹਾਡਾ ਕੰਮ:",
+        "no_task": "\u26A0\ufe0f ਅੱਜ ਕੋਈ ਵਿਸ਼ੇਸ਼ ਕੰਮ ਨਹੀਂ ਹੈ।",
+        "price_info": "\U0001F4B8 ਮੰਡੀ ਕੀਮਤ ਜਾਣਕਾਰੀ:",
+        "disease_detected": "\U0001F33F ਫਸਲ ਰੋਗ ਦਾ ਪਤਾ ਲੱਗਿਆ:",
+        "govt_scheme": "\U0001F4CA ਸਰਕਾਰੀ ਯੋਜਨਾ ਵਿਵਰਣ:",
+        "weather": "\u2600\ufe0f ਅੱਜ ਦਾ ਮੌਸਮ:",
+        "chat": "\U0001F916 ਕਿਸਾਨ ਸਹਾਇਕ ਚੈਟਬੌਟ",
+        "ask_question": "ਸਵਾਲ ਪੁੱਛੋ"
+    },
+    "Bhojpuri": {
+        "welcome": "\U0001F33E कृषि मित्र में रउआ स्वागत बा!",
+        "today_task": "\U0001F4CB आज के काम:",
+        "no_task": "\u26A0\ufe0f आज कौनो खास काम नइखे।",
+        "price_info": "\U0001F4B8 मंडी के दाम जानकारी:",
+        "disease_detected": "\U0001F33F फसल में बीमारी देखाइल बा:",
+        "govt_scheme": "\U0001F4CA सरकारी योजना के विवरण:",
+        "weather": "\u2600\ufe0f आज के मौसम:",
+        "chat": "\U0001F916 किसान सहायता चैटबॉट",
+        "ask_question": "सवाल पूछीं"
+    },
+    "Tamil": {
+        "welcome": "\U0001F33E கிரிஷிமித்ரா வரவேற்கிறது!",
+        "today_task": "\U0001F4CB இன்றைய உங்கள் வேலை:",
+        "no_task": "\u26A0\ufe0f இன்று சிறப்பான வேலை எதுவும் இல்லை.",
+        "price_info": "\U0001F4B8 மண்டி விலை தகவல்:",
+        "disease_detected": "\U0001F33F பயிர் நோய் கண்டறியப்பட்டது:",
+        "govt_scheme": "\U0001F4CA அரசுத் திட்ட விவரங்கள்:",
+        "weather": "\u2600\ufe0f இன்றைய வானிலை:",
+        "chat": "\U0001F916 விவசாய உதவி சேட்ட்பாட்",
+        "ask_question": "ஒரு கேள்வியை கேளுங்கள்"
+    },
+    "Telugu": {
+        "welcome": "\U0001F33E కృషిమిత్రలోకి స్వాగతం!",
+        "today_task": "\U0001F4CB ఈరోజు మీ పని:",
+        "no_task": "\u26A0\ufe0f ఈరోజు ప్రత్యేక పనులు లేవు.",
+        "price_info": "\U0001F4B8 మార్కెట్ ధర సమాచారం:",
+        "disease_detected": "\U0001F33F పంట వ్యాధి గుర్తించబడింది:",
+        "govt_scheme": "\U0001F4CA ప్రభుత్వ పథక వివరాలు:",
+        "weather": "\u2600\ufe0f ఈరోజు వాతావరణం:",
+        "chat": "\U0001F916 రైతు సహాయక చాట్బాట్",
+        "ask_question": "ప్రశ్న అడగండి"
+    },
+    "Odia": {
+        "welcome": "\U0001F33E କୃଷିମିତ୍ର କୁ ସ୍ବାଗତ!",
+        "today_task": "\U0001F4CB ଆଜିର କାମ:",
+        "no_task": "\u26A0\ufe0f ଆଜି କୌଣସି ବିଶେଷ କାମ ନାହିଁ।",
+        "price_info": "\U0001F4B8 ମାଣ୍ଡି ଦର ସୂଚନା:",
+        "disease_detected": "\U0001F33F ଚାଷରେ ରୋଗ ଚିହ୍ନଟ ହୋଇଛି:",
+        "govt_scheme": "\U0001F4CA ସରକାରୀ ଯୋଜନା ବିବରଣୀ:",
+        "weather": "\u2600\ufe0f ଆଜିର ପାଣିପାଗ:",
+        "chat": "\U0001F916 କୃଷକ ସହଯୋଗୀ ଚାଟବଟ୍",
+        "ask_question": "ପ୍ରଶ୍ନ କରନ୍ତୁ"
+    },
+    "Chhattisgarhi": {
+        "welcome": "\U0001F33E कृषिमित्र मं आपमन के स्वागत हे!",
+        "today_task": "\U0001F4CB आज के काम हे:",
+        "no_task": "\u26A0\ufe0f आज कोनो खास काम नइ हे।",
+        "price_info": "\U0001F4B8 मंडी के भाव जानकारी:",
+        "disease_detected": "\U0001F33F फसल मं रोग दिखिस हे:",
+        "govt_scheme": "\U0001F4CA सरकारी योजना के जानकारी:",
+        "weather": "\u2600\ufe0f आज के मौसम:",
+        "chat": "\U0001F916 किसान मदद चैटबॉट",
+        "ask_question": "प्रश्न पूछव"
     }
 }
 
