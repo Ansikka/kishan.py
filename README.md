@@ -1,5 +1,5 @@
 ** KrishiMitra – Empowering Indian Farmers with AI & Language Support
-KrishiMitra is a smart,multilingual Streamlit web application designed to assist farmers in India!!
+KrishiMitra is a smart, multilingual Streamlit web application designed to assist farmers in India!!
 By providing crucial daily support—crop care tips, mandi prices, government schemes, disease detection, weather updates, and a friendly chatbot.
 With BhashaBuddy farmers can use the app in their native languages, making the platform more inclusive and empowering!!
 **
