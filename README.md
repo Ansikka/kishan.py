@@ -1,17 +1,17 @@
-**🌾 KrishiMitra – Empowering Indian Farmers with AI & Language Support
+** KrishiMitra – Empowering Indian Farmers with AI & Language Support
 KrishiMitra is a smart,multilingual Streamlit web application designed to assist farmers in India!!
 By providing crucial daily support—crop care tips, mandi prices, government schemes, disease detection, weather updates, and a friendly chatbot.
 With BhashaBuddy farmers can use the app in their native languages, making the platform more inclusive and empowering!!
 **
-🚀 Features
-🌐 BhashaBuddy – Language Support
+ Features
+ BhashaBuddy – Language Support
 Supports 9+ Indian languages with localized translations:
 
 English, Hindi, Bengali, Punjabi, Bhojpuri, Tamil, Telugu, Odia, Chhattisgarhi
 
 More languages can be added with ease.
 
-📅 Smart Daily Task Assistant
+Smart Daily Task Assistant
 Suggests personalized agricultural tasks based on the day and farming season, such as:
 
 Irrigation reminders
@@ -22,21 +22,21 @@ Pest control alerts
 
 Harvest schedules
 
-📈 Mandi Price Updates
+Mandi Price Updates
 Shows updated and localized market rates (mandi prices) for essential crops:
 
 Wheat, Rice, Mustard, Sugarcane, Maize, etc.
 
 Custom pricing data can be integrated from APIs.
 
-🧬 Crop Disease Detection (Simulated)
+Crop Disease Detection (Simulated)
 Upload crop images and get instant simulated feedback (future: integrate with ML models for real detection). Example:
 
 "Blight detected in tomato leaves"
 
 “Powdery mildew on brinjal”
 
-🌤 Weather Forecast (Simulated)
+Weather Forecast (Simulated)
 Location-based simulated weather update feature:
 
 Temperature
@@ -47,7 +47,7 @@ Wind speed
 
 Can be linked to real-time weather APIs (e.g., OpenWeatherMap).
 
-🧾 Government Scheme Info
+Government Scheme Info
 Provides details about popular central schemes:
 
 PM-KISAN
@@ -60,12 +60,12 @@ KCC (Kisan Credit Card)
 
 Future: Add regional schemes per state.
 
-🤖 Farmer Chatbot
+Farmer Chatbot
 Simulated AI chatbot answers basic agri-related queries in the selected language.
 
 Example: "Which fertilizer to use for tomatoes?"
 
-🔊 Voice Instructions (Coming Soon)
+Voice Instructions (Coming Soon)
 In development: Integration of text-to-speech for voice navigation and feedback in local languages.
 
 🛠 Tech Stack
@@ -77,14 +77,14 @@ Future ML Use	TensorFlow / OpenCV for disease detection
 UI Enhancements	Custom CSS & Emojis
 Hosting	Streamlit Community Cloud / GitHub Pages (coming soon)
 
-💡 Use Cases
+Use Cases
 Indian Farmers: Especially those in rural regions unfamiliar with English.
 
 Agri Startups: Can integrate this as a demo or public utility feature.
 
 Government & NGOs: Use as awareness tools to spread scheme-related information.
 
-🚧 Future Enhancements
+Future Enhancements
 ✅ Real-time disease detection with ML
 
 ✅ Voice support in all languages
